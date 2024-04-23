@@ -90,6 +90,29 @@ Let's trying running it.
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+## Evidence
+
+**Login**
+
+<img src="images/login.png">
+
+**Docker Pull**
+```docker pull ghcr.io/jhormanmera/publish-packages/game:sha-60dd72c```
+<br>
+<img src="images/docker_pull.png">
+
+**Docker images**
+
+<img src="images/images.png">
+
+**Docker run**
+
+<img src="images/container.png">
+
+**Game:**
+
+<img src="images/game_page.png">
+<br>
 
 ## Finish
 
